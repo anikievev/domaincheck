@@ -3,7 +3,7 @@ package domaincheck
 import (
 	"context"
 
-	"github.com/twiny/whois/v2"
+	"github.com/anikievev/whois/v2"
 )
 
 type DomainStatus string
