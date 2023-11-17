@@ -2,7 +2,7 @@ module github.com/twiny/domaincheck
 
 go 1.18
 
-require github.com/twiny/whois/v2 v2.0.1
+require github.com/anikievev/whois/v2 v2.0.2
 
 require (
 	github.com/fatih/color v1.10.0 // indirect
