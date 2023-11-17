@@ -1,4 +1,4 @@
-module github.com/twiny/domaincheck
+module github.com/anikievev/domaincheck
 
 go 1.18
 
