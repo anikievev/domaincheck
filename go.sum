@@ -1,5 +1,7 @@
 github.com/anikievev/whois/v2 v2.0.2 h1:D1BFcPBY3YABC1l1K1rRsEDa6FtA0KIHKbTtE6ebX8I=
 github.com/anikievev/whois/v2 v2.0.2/go.mod h1:UeyP4HmWFruXXuYQ722s/BnWgwxi7fRb/bk9Fnqm7OA=
+github.com/anikievev/whois/v2 v2.0.3 h1:tjgNkdYYo/cAmoZRAuKWkf5m4UHiph+JcCSiR57+CaU=
+github.com/anikievev/whois/v2 v2.0.3/go.mod h1:HX2N3Bs0k9tK69Kuk5Lxm5fv74df7/MSKHaYAiSQQSQ=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/fatih/color v1.10.0 h1:s36xzo75JdqLaaWoiEHk767eHiwo0598uUxyfiPkDsg=
 github.com/fatih/color v1.10.0/go.mod h1:ELkj/draVOlAH/xkhN6mQ50Qd0MPOk5AAr3maGEBuJM=
